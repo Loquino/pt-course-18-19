@@ -1,0 +1,19 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "This my JSON file where you can find whitch npm package I use for my datin app for artists and producers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Loquino/pt-course-18-19.git"
+  },
+  "author": "Deiver Zamora Cortez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Loquino/pt-course-18-19/issues"
+  },
+  "homepage": "https://github.com/Loquino/pt-course-18-19#readme"
+}
