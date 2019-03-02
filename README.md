@@ -1,2 +1,2 @@
-# pt-course-18-19
+# Get Connected app 
 Deiver Cortez
