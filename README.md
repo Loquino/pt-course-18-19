@@ -16,4 +16,7 @@ Make sure you have install all the de dependencies packages to look into package
 #### Step 4
 Read the lincense and enjoy
 
+#### Finaly
+You can always read the wiki for more background information about this project.
+
 Licensed under [MIT license](/package/license)
