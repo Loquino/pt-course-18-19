@@ -4,7 +4,8 @@
   "description": "This my JSON file where you can find whitch npm package I use for my datin app for artists and producers.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon index.js"
   },
   "repository": {
     "type": "git",
